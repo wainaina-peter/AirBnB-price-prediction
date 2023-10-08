@@ -1,3 +1,5 @@
 # AirBnB-price-prediction Model
 
-![air2](https://github.com/wainaina-peter/AirBnB-price-prediction/assets/80960028/92ea99e5-4575-4277-8b83-a8815fc647bb)
+![air 3](https://github.com/wainaina-peter/AirBnB-price-prediction/assets/80960028/98838aa8-82fe-4667-97b1-fe10835de788)
+
+
