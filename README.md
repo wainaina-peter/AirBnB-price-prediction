@@ -23,7 +23,7 @@ To provide a reliable system (Predictive system) that a user will use to predict
 - The data contains 48895 rows and 16 columns and it describes the listing activity and metrics in NYC, NY for 2019. 
 - The data contains information about the id, host name, host_id, host_name, neighbourhood_group, neighbouhood, latitude, longitude, room type, price, minimum number of nights, number of reviews, last review, reviews per month, calculated host listings count, and availability during the year.
 - The data is readily available for use at kaggle (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
-- 
+  
 
 4. # External Data-Source Validation
 - Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
