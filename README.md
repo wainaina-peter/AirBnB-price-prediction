@@ -3,12 +3,13 @@
 ![karsten-winegeart-sStahKEhT9w-unsplash](https://github.com/wainaina-peter/AirBnB-price-prediction/assets/80960028/a7cfbf00-39a1-4047-aca2-2edddcdc5303)
 
 1. # Business Understanding
+AirBnB serves as an intermediary between property owners and customers, facilitating the rental process. It allows listing owners to independently determine their own prices based on various factors. However, as AirBnB expands its operations, it would be beneficial for the platform to assist new owners in setting competitive prices that attract more customers and offer affordable accommodation options. To achieve this, I aim to develop a model that utilizes historical data patterns to establish an intelligent pricing mechanism.
 
   ## Analytical Question
-Can one predict the price of a listed airbnb using factors like size, location etc?
+Can one utilize historical data to intelligently price an airbnb listing at a competitive price which is neither too high or too low?
 
   ## Problem Statement
-To build a ML predictive system that predicts the price of a listed airbnb based on a number of vatiables.
+To build a ML predictive system that predicts the price of a listed airbnb based on a number of variables.
 
   ## Defining the Metric of Success
 Having a model that has a low RMSE and high recall score.
