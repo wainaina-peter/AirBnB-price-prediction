@@ -3,6 +3,7 @@
 ![karsten-winegeart-sStahKEhT9w-unsplash](https://github.com/wainaina-peter/AirBnB-price-prediction/assets/80960028/a7cfbf00-39a1-4047-aca2-2edddcdc5303)
 
 1. # Business Understanding
+
 AirBnB serves as an intermediary between property owners and customers, facilitating the rental process. It allows listing owners to independently determine their own prices based on various factors. However, as AirBnB expands its operations, it would be beneficial for the platform to assist new owners in setting competitive prices that attract more customers and offer affordable accommodation options. To achieve this, I aim to develop a model that utilizes historical data patterns to establish an intelligent pricing mechanism.
 
   ## Analytical Question
