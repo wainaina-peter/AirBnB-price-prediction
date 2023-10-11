@@ -13,7 +13,7 @@ Can one utilize historical data to intelligently price an airbnb listing at a co
 To build a ML predictive system that predicts the price of a listed airbnb based on a number of variables.
 
   ## Defining the Metric of Success
-Having a model that has a low RMSE and high recall score.
+Having a model that has a low MAE.
 
   2. # Objectives
 ## Main Objective
@@ -38,12 +38,13 @@ To provide a reliable system (Predictive system) that a user will use to predict
 
 I built two models with an aim of seeing which model will perform better between the two, against evaluation metrics. The two models are:
 -  Linear Regression Model
--  Random Forest Regression Model,
+-  Random Forest Regression Model
 
 
-9. # Conclusion
-10. # Recommendations
-11. # Repository Guide.     
+8. # Conclusion
+
+The Random Forest Regression model performs better as it has a lower mean absolute error as compared to the Linear Regression Model.
+ 
   
 
 
