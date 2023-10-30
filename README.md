@@ -10,7 +10,7 @@ AirBnB serves as an intermediary between property owners and customers, facilita
 Can one utilize historical data to intelligently price an airbnb listing at a competitive price which is neither too high or too low?
 
   ## Problem Statement
-To build a ML predictive system that predicts the price of a listed airbnb based on a number of variables.
+To build a ML predictive system that predicts the price of a listed airbnb based on a number of variables. 
 
   ## Defining the Metric of Success
 Having a model that has a low MAE.
